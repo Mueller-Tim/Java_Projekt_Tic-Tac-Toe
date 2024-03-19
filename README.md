@@ -1,2 +1,3 @@
-# Java_Projekt_Tic-Tac-Toe
-Note: 5.9, Java, erste Projekterfahrung mit Entwicklung einer digitalen Version von Tic-Tac-Toe
+# TicTacToe - Team Null
+Team Members: Raphael Meierhans, Tim Müller, Ivan Starčević, Philipp Kiss
+
